@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+   <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+  
+    <h1>It's my birthday!</h1> <hr>
+<hr>
+    <img src="birhday.jpg" width="200" height="200" alt="Image"><hr>
+    <hr>
+    <h1> You all invited ! </h1>
+    <h1>Venue:<h1> <h4>G-TEC KALABURAGI COMPUTER - EDUCATION PDA Engineering College Rd, opp. Gurukul Degree College</a> </h4> <hr>
+    <hr>    
+    <h2> Thank You</h2>
+    <a href="../index.html" alt="IndexPage">
+        <h1>Back</h1>
+    </a>
+</body>
+</html>
